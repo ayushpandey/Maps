@@ -6,7 +6,7 @@ For this application,follow these steps.
 2: Navigate to the local repository via the terminal.
 3: Look for the file named 'server.js'.
 4: execute it by the following command 'nodejs server.js'
-5: the app will start on a local server bound to the post number 3000.
+5: the app will start on a local server bound to the port number 3000.
 
 
 
